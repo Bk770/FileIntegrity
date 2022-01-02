@@ -1,5 +1,6 @@
 # FileIntegrity
 This is a program to test for file integrity using powershell
+
 User has two options.
 Option A) Will the the following: Collect New Baseline
      1)Calculate the hash value from a given target file
